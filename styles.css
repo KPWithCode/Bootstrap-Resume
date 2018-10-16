@@ -1,7 +1,4 @@
 
-
-
-
 .card-header    {
 background-color:#4376e4;
 color: #ffffffce;
@@ -12,4 +9,12 @@ color: #ffffffce;
 background-color: #bdd4bd;
 color: #4e4a4a;
 
+}
+
+.badge-primary  {
+    align-items: flex-end;
+}
+
+.d-flex-justify-content-end {
+    display: inline;
 }
