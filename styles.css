@@ -1,4 +1,15 @@
-.col-12 {
-background-color:#3737ff;
+
+
+
+
+.card-header    {
+background-color:#4376e4;
 color: #ffffffce;
+
+}
+
+.description  {
+background-color: #bdd4bd;
+color: #4e4a4a;
+
 }
